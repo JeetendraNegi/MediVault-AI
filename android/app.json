@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "MediVault AI Mobile",
+    "slug": "jeetendra-negi",
+    "owner": "jeetendranegis-team",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.medivault.app",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.medivault.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "18448cc9-a162-4dea-a22d-94e10736dbd3"
+      }
+    }
+  }
+}

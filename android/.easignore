@@ -1,0 +1,14 @@
+.expo
+.expo/
+.expo-shared
+.expo-shared/
+node_modules
+node_modules/
+android
+android/
+ios
+ios/
+.venv
+dist
+build
+*.log

@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+*.db
+*.sqlite3
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+
+# Android & Mobile
+.expo/
+.expo-shared/
+android/.gradle/
+android/app/build/
+android/.idea/
+*.apk
+*.aab
+*.keystore
+!debug.keystore
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Sensitive environment variables
+.env
+.env.*
